@@ -1,0 +1,1 @@
+<div style="height: 900px; background-image: url(./img/img.jpg);"></div>
